@@ -4,8 +4,8 @@
 
 
 ### Social Media
-- Twitter: [](https://twitter.com/ScarKest)
-- LinkedIn: [](https://www.linkedin.com/in/kestler-barrios/)
+- [Twitter: ](https://twitter.com/ScarKest)
+- [LinkedIn: ](https://www.linkedin.com/in/kestler-barrios/)
 - 🌱 I’m currently learning ...
 
 <!--
